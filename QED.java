@@ -38,7 +38,6 @@ double x2 = (-b - Math.sqrt(d))/(2.0*a);
 System.out.println("Roots are: " + x1 + ", " + x2);
 }
 }
-//////////////////// QuadraticEquationDemo.java /////////////////
 class QED
 {
 public static void main(String[] args)
